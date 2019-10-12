@@ -1,0 +1,11 @@
+﻿Compilación iniciada a las 05/10/2016 15:38:10.
+     1>Proyecto "C:\Users\jjgarcia\Desktop\RVI\practicasRVI1617\testChai3d\ConsoleApplication1\ConsoleApplication1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt testChai3d.cpp
+         testChai3d.cpp
+     1>c:\users\jjgarcia\desktop\rvi\practicasrvi1617\testchai3d\consoleapplication1\testchai3d.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'chai3d/chai3d.h': No such file or directory
+     1>Compilación del proyecto terminada "C:\Users\jjgarcia\Desktop\RVI\practicasRVI1617\testChai3d\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.54
